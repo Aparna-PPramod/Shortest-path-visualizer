@@ -1,0 +1,13 @@
+.grid {
+  margin: 100px 0 0;
+}
+.Visualize-DA {
+  margin-top: 5px;
+  height: 40px;
+  width: 400px;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #1e2761;
+  color: aliceblue;
+  border-radius: 5%;
+}
